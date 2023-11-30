@@ -58,7 +58,12 @@ const about = {
   imageLink: require("../editable-stuff/ricthethird.jpg"),
   imageSize: 375,
   message:
-    "My name is Ricardo Ferrancullo III - hands on husband and dad plus a techie developer. I’m a graduate of class 2015 at STI College in the Philippines with a degree in Information Technology. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects and improving my machine learning coding.",
+    "Ricardo Ferrancullo III \"a.k.a Ric\" is currently a Senior Software Engineer at Woolworths New Zealand. Ric obtained his degree at \
+    STI College Lipa in the Philippines with a degree of B.Sc. in Information Technology.  During his academic year, he stand out by \
+    competing and winning in various programming competition held by STI College nationwide and awarded as Programmer of the year in 2015. \
+    His major milestone in career started when IBM Philippines offered him a role as Application Developer and eventually moved to Kuala Lumpur, \
+    Malaysia as Java Developer for Maybank then again had an opportunity to work and reside in New Zealand. \
+    His passion within the field of software engineering gained him an extensive experience on his career and trying to give back by contributing to open source community.",
 };
 
 // PROJECTS SECTION
@@ -81,16 +86,7 @@ const leadership = {
   message:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
-    { 
-      img: require("../editable-stuff/hashirshoaeb.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
-    },
-    { 
-      img: require("../editable-stuff/hashirshoaeb.png"), 
-      label: "Second slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
-    },
+    
   ],
   imageSize: {
     width:"615",
@@ -140,9 +136,14 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
+      role: 'Senior Software Developer',// Here Add Company Name
+      companylogo: require('../assets/img/woolworths_nz.jpg'),
+      date: 'May 2022 – Present',
+    },
+    {
       role: 'Software Engineer',// Here Add Company Name
       companylogo: require('../assets/img/lps.jpg'),
-      date: 'March 2019 – Present',
+      date: 'March 2019 – May 2022',
     },
     {
       role: 'Full Stack Developer',
@@ -169,8 +170,8 @@ const achievements = {
     {
       role: '',// Here Add Company Name
       companylogo: require('../assets/img/azure-devops.png'),
-      date: 'Coming soon!',
-      link: ''
+      date: '',
+      link: 'https://www.credly.com/badges/61a65662-a05e-4f5e-b7b4-97aa83740ec9'
     },
     {
       role: '',// Here Add Company Name
