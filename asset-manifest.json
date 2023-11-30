@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.f5497eb8.chunk.css",
-    "main.js": "/static/js/main.69944463.chunk.js",
-    "main.js.map": "/static/js/main.69944463.chunk.js.map",
+    "main.js": "/static/js/main.d57d1d74.chunk.js",
+    "main.js.map": "/static/js/main.d57d1d74.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.554504a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
-    "static/js/2.5fe3d0aa.chunk.js": "/static/js/2.5fe3d0aa.chunk.js",
-    "static/js/2.5fe3d0aa.chunk.js.map": "/static/js/2.5fe3d0aa.chunk.js.map",
+    "static/js/2.a0b8af7b.chunk.js": "/static/js/2.a0b8af7b.chunk.js",
+    "static/js/2.a0b8af7b.chunk.js.map": "/static/js/2.a0b8af7b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.65de7752ea131d038dc45678ad2d7f7b.js": "/precache-manifest.65de7752ea131d038dc45678ad2d7f7b.js",
+    "precache-manifest.a20e530b9625ca06b3bd76d58fe2713c.js": "/precache-manifest.a20e530b9625ca06b3bd76d58fe2713c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.f5497eb8.chunk.css.map": "/static/css/main.f5497eb8.chunk.css.map",
-    "static/js/2.5fe3d0aa.chunk.js.LICENSE.txt": "/static/js/2.5fe3d0aa.chunk.js.LICENSE.txt",
+    "static/js/2.a0b8af7b.chunk.js.LICENSE.txt": "/static/js/2.a0b8af7b.chunk.js.LICENSE.txt",
     "static/media/azure-developer-associate.png": "/static/media/azure-developer-associate.8671ea86.png",
     "static/media/azure-devops.png": "/static/media/azure-devops.0902f056.png",
     "static/media/azure-fundamentals.png": "/static/media/azure-fundamentals.76c0becf.png",
     "static/media/kinpo.jpg": "/static/media/kinpo.771aafb2.jpg",
     "static/media/maybank.jpg": "/static/media/maybank.bb049648.jpg",
     "static/media/resume.pdf": "/static/media/resume.9d3da0e2.pdf",
-    "static/media/ricthethird.jpg": "/static/media/ricthethird.effb1fdc.jpg"
+    "static/media/ricthethird.jpg": "/static/media/ricthethird.effb1fdc.jpg",
+    "static/media/woolworths_nz.jpg": "/static/media/woolworths_nz.35483cbf.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.554504a0.js",
-    "static/js/2.5fe3d0aa.chunk.js",
+    "static/js/2.a0b8af7b.chunk.js",
     "static/css/main.f5497eb8.chunk.css",
-    "static/js/main.69944463.chunk.js"
+    "static/js/main.d57d1d74.chunk.js"
   ]
 }
