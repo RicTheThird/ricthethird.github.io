@@ -34,6 +34,8 @@
 - [Showcase 🚀](#showcase-)
 - [Versão em Português :brazil:](#versao-em-portugues-)
 
+
+
 ## Technology Stack 🛠️
 
 Dependencies defined in package.json:
@@ -113,6 +115,8 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
    ```
 
    Or for deployment at \<username>.github.io, refer [READMEdocs/custom-deployment.md](./READMEdocs/custom-deployment.md) and [pages.js](./pages.js)
+
+   If custom domain returns 404, go to https://github.com/RicTheThird/ricthethird.github.io/settings/pages and add again your custom domain
 
 9. Congrats your site is up and running. To see it live, visit:
 
