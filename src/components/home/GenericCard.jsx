@@ -8,7 +8,7 @@ const GenericCard = ({heading, key, data}) => {
     return ( 
         <Col lg={heading === 'Experiences' ? '6' : '4'}>
             <div className="pb-5 text-center">
-                <img className=" bg-white mb-3" src={data.companylogo} alt=""/>
+                <img className="company-logo mb-3" src={data.companylogo} alt=""/>
                 <p className="lead">
                     {data.role}
                     <br/>

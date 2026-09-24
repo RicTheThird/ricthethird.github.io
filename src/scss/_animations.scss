@@ -7,6 +7,15 @@
   }
 }
 
+@keyframes twinkle {
+  from {
+    opacity: 0.55;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 @-webkit-keyframes BackgroundAnimation {
   0% {
     background-position: 0% 7%;

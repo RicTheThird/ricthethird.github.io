@@ -5,7 +5,7 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
+  gradientColors: "#050014, #0a0a2a, #0d1b4d, #4b1e8f, #a01ee0, #00e5ff, #0a0a2a",
   firstName: "Ricardo III",
   middleName: "",
   lastName: "Ferrancullo",
@@ -109,6 +109,7 @@ const skills = {
     { name: "Angular", value: 80 },
     { name: "Automation Testing", value: 80 },
     { name: "Azure Services", value: 85 },
+    { name: "Claude AI / GenAI-Assisted Dev", value: 85 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },

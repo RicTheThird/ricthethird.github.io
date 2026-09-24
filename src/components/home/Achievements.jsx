@@ -10,7 +10,7 @@ const Achievements = ({achievements}) => {
     return (  
         <section className="section" id="achievements">
             <Container>
-                <Jumbotron fluid className="bg-white">
+                <Jumbotron fluid className="section-panel">
                     <h2 className="display-4 mb-5 text-center">
                         {achievements.heading}
                     </h2>

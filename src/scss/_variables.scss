@@ -1,0 +1,69 @@
+// ==========================================================================
+// Futuristic theme tokens — Bootstrap variable overrides
+// These must be set BEFORE `~bootstrap/scss/bootstrap` is imported.
+// ==========================================================================
+
+// Palette --------------------------------------------------------------
+$space-black: #050014;
+$space-navy: #0a0a2a;
+$panel-navy: #0d0f2b;
+$neon-cyan: #00e5ff;
+$neon-purple: #a01ee0;
+$neon-pink: #ff2fb4;
+$neon-blue: #4b6bff;
+$ink: #e8ecff;
+$ink-muted: #9aa3c7;
+
+// Core body ---------------------------------------------------------------
+$body-bg: $space-black;
+$body-color: $ink;
+
+// Links ---------------------------------------------------------------
+$link-color: $neon-cyan;
+$link-hover-color: $neon-pink;
+$link-hover-decoration: none;
+
+// Typography ---------------------------------------------------------------
+$font-family-sans-serif: "Space Grotesk", -apple-system, BlinkMacSystemFont,
+  "Segoe UI", Roboto, sans-serif;
+$font-family-monospace: "JetBrains Mono", SFMono-Regular, Menlo, Monaco,
+  Consolas, monospace;
+$headings-font-family: "Orbitron", "Space Grotesk", sans-serif;
+$headings-font-weight: 700;
+$headings-color: $ink;
+
+// Components ---------------------------------------------------------------
+$jumbotron-bg: transparent;
+$jumbotron-padding: 3rem;
+
+$card-bg: rgba(255, 255, 255, 0.04);
+$card-border-color: rgba(0, 229, 255, 0.25);
+$card-border-radius: 1rem;
+$card-cap-bg: transparent;
+
+$border-color: rgba(0, 229, 255, 0.18);
+
+$progress-bg: rgba(255, 255, 255, 0.08);
+$progress-bar-bg: $neon-cyan;
+$progress-border-radius: 1rem;
+$progress-height: 0.6rem;
+
+$badge-font-weight: 600;
+
+$btn-border-radius: 2rem;
+$btn-border-radius-lg: 2rem;
+$btn-font-weight: 600;
+
+$nav-tabs-border-color: rgba(0, 229, 255, 0.2);
+$nav-tabs-link-active-color: $space-black;
+$nav-tabs-link-active-bg: $neon-cyan;
+$nav-tabs-link-active-border-color: rgba(0, 229, 255, 0.2);
+
+$hr-border-color: rgba(0, 229, 255, 0.2);
+
+$component-active-bg: $neon-cyan;
+$component-active-color: $space-black;
+
+$input-bg: rgba(255, 255, 255, 0.05);
+
+$enable-responsive-font-sizes: true;
